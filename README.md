@@ -21,3 +21,6 @@
 
 ## Impulso Network
 - [https://impulser.me/](https://impulser.me/2ymNQvx)
+
+## Motivacional
+- [Quanto eu ganho como desenvolvedor de software?](https://medium.com/@brunolemos/quanto-eu-ganho-como-desenvolvedor-de-software-165f5dfbdbce)
