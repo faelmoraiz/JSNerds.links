@@ -1,10 +1,3 @@
-> ### Sumário
-> - [Grupo Whatsapp](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#grupo-whatsapp)
-> - [Cursos](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#cursos)
-> - [Livros](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#livros)
-> - [Impulso Network](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#impulso-network)
->
-
 ## Grupo Whatsapp
 - [https://chat.whatsapp.com/JSNerds](https://chat.whatsapp.com/C85EJVJQbMKFtX1bWwrO4v)
 
