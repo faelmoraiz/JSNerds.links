@@ -1,4 +1,8 @@
 > Links úteis
+- [x] [Grupo Whatsapp](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#grupo-whatsapp)
+- [x] [Cursos](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#cursos)
+- [x] [Livros](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#livros)
+- [x] [Impulso Network](https://github.com/faelmoraiz/JSNerds.links/blob/master/README.md#impulso-network)
 
 ## Grupo Whatsapp
 - [https://chat.whatsapp.com/JSNerds](https://chat.whatsapp.com/C85EJVJQbMKFtX1bWwrO4v)
