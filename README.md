@@ -1,4 +1,4 @@
-> JSNerds.links
+> Links úteis
 
 ## Grupo Whatsapp
 - [https://chat.whatsapp.com/JSNerds](https://chat.whatsapp.com/C85EJVJQbMKFtX1bWwrO4v)
