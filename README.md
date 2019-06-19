@@ -21,5 +21,5 @@
 - [https://github.com/cezaraugusto/You-Dont-Know-JS/](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/up%20&%20going/README.md#you-dont-know-js-iniciando)
 
 
-## Impulso
+## Impulso Network
 - [https://impulser.me/](https://impulser.me/2ymNQvx)
