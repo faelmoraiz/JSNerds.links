@@ -23,6 +23,6 @@
 - [https://impulser.me/](https://impulser.me/2ymNQvx)
 
 ## Motivacional
-- ["Eu parei de crescer." - Luiz Gonçalves ](https://medium.com/@lhcgoncalves/eu-parei-de-crescer-a229892ad7cc)
-- ["Quanto eu ganho como desenvolvedor de software?" - Bruno Lemos](https://medium.com/@brunolemos/quanto-eu-ganho-como-desenvolvedor-de-software-165f5dfbdbce)
+- [Eu parei de crescer. - Luiz Gonçalves ](https://medium.com/@lhcgoncalves/eu-parei-de-crescer-a229892ad7cc)
+- [Quanto eu ganho como desenvolvedor de software? - Bruno Lemos](https://medium.com/@brunolemos/quanto-eu-ganho-como-desenvolvedor-de-software-165f5dfbdbce)
 
