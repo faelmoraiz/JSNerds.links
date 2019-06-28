@@ -4,6 +4,9 @@
 
 ## Cursos
 
+### Cursos RocketSeat
+- [Javascript, ES6, NodeJS, ReactJS, React Native](https://station.rocketseat.com.br/courses/starter)
+
 ### Cursos Udemy
 - [Javascript Ninja + Cupom desconto](https://www.udemy.com/curso-javascript-ninja/?couponCode=MENAMORA19)
 - [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO](https://www.udemy.com/react-redux-pt/)
